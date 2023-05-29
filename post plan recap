@@ -1,0 +1,7 @@
+// didnt need as many classes as originally planned 
+// more functions in the main than originally planned 
+// similar in the aspect of react where all the state changes need to happen
+// = at the main.rb or index.rb 
+//so next time remember just big classes with small functions, because its OOP
+// there can be plenty of helper methods in a class.
+// make it simple with the plan for classes then write a plan with helpers
